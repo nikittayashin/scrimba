@@ -1,0 +1,55 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter');
+
+body {
+    text-align: center;
+    background: #1F2937;
+    font-family: 'Inter', '800';
+}
+
+.heroSection {
+    background: linear-gradient(246.26deg, #585DFE 0%, #FB3796 100%);
+    height: 260px;
+    padding-top: 53px;
+    color: #FFFFFF;
+    border-top-right-radius: 13px;
+    border-top-left-radius: 13px;
+}
+
+.unitSection {
+    background-color: #FBF7EE;
+
+}
+
+#result {
+    background-color: transparent;
+    border: none;
+    font-size: 97;
+    color: #FFFFFF;
+}
+
+.container {
+    margin: auto;
+    width: 550px;
+    height: 550px;
+    border: 4px solid #FFFFFF;
+    border-radius: 13px;
+}
+
+.header {
+    font-size: 22px;
+}
+
+#meetersToFeet,
+#litersToGallons,
+#kilosToPounds {
+    color: #4E4E4E;
+}
+
+#meetersToFeet {
+    margin-top: 0px;
+
+}
+
+#kilosToPounds {
+    padding-bottom: 23.5px;
+}
